@@ -1,16 +1,13 @@
-# Pautas Pitorescas (site estático)
+# Pautas Pitorescas – Estilo Tabloide
 
-Site gratuito via GitHub Pages, atualizado automaticamente.
+## Como usar
+1. Suba este pacote no GitHub em um repositório público.
+2. Vá em Settings -> Pages -> Branch main, pasta /docs.
+3. Vá em Settings -> Actions -> General -> Read and write permissions.
+4. O site ficará em https://SEU_USUARIO.github.io/NOME_REPO
 
-## Como publicar
-1. Crie um repositório no GitHub e suba estes arquivos.
-2. Vá em Settings -> Pages -> selecione branch main e pasta /docs.
-3. Ative Actions com permissão de escrita.
-4. O site ficará acessível em https://SEU_USUARIO.github.io/NOME_REPO
-
-## Estrutura
-- docs/ : páginas do site (publicadas)
-- feeds.txt : lista de feeds de portais e tabloides
-- generator.py : (placeholder) gerador de posts diários
-- column_stub.py : (placeholder) cria rascunho de coluna semanal
-
+## O que faz
+- `generator.py`: cria páginas diárias em docs/posts/ (estilo tabloide).
+- `column_stub.py`: cria coluna semanal em docs/colunas/ (assinada por @otaldefelipeloureiro).
+- `style.css`: define a estética de tabloide (vermelho/preto/branco).
+- `.github/workflows/build.yml`: agenda execuções diárias e semanais automáticas.
