@@ -1,0 +1,14 @@
+https://g1.globo.com/rss/g1/
+https://oglobo.globo.com/rss.xml
+https://www.metropoles.com/feed
+https://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+https://rss.uol.com.br/feed/noticias.xml
+https://rss.estadao.com.br/cidades.xml
+https://www.terra.com.br/rss/FeedJornal.xml
+https://noticias.r7.com/feed.xml
+https://www.thesun.co.uk/news/feed/
+https://www.dailymail.co.uk/articles.rss
+https://nypost.com/feed/
+https://www.mirror.co.uk/news/rss.xml
+https://www.bild.de/rssfeeds/rss3-20745882,feed=bildallgemein.bild.html
+https://feeds.reuters.com/reuters/oddlyEnoughNews
